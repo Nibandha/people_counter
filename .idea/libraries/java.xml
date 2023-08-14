@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="java">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jfreechart-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jgrapht-0.8.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jgraphx-4.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/j3dcore.jar!/" />
+      <root url="jar://$PROJECT_DIR$/vecmath.jar!/" />
+      <root url="jar://$PROJECT_DIR$/j3dutils.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mysql-connector-j-8.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
